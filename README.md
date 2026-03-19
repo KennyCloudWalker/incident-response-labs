@@ -1,3 +1,4 @@
+
 # Incident Response Labs
 
 **GitHub:** KennyCloudWalker  
@@ -10,7 +11,3 @@
 FTK Imager, Wireshark, Plaso, and PowerShell.
 
 📂 [View CYBR C160 Labs](./cybr-c160/)
-```
-Commit message:
-```
-Fix root README
